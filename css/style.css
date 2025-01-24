@@ -1,0 +1,27 @@
+.center-text {
+  text-align: center;
+}
+
+h1 {
+  width: auto;
+}
+
+ul {
+  list-style-type: none;
+  width: 25%;
+  margin: auto;
+  padding: 0;
+}
+
+li {
+  padding: 4px 0;
+  margin-bottom: 8px;
+  border-radius: 4px;
+  background: #e0e0e0;
+  box-shadow: 20px 20px 60px #bebebe, -20px -20px 60px #ffffff;
+}
+
+a {
+  text-decoration: none;
+  color: black;
+}
